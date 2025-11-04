@@ -10,7 +10,7 @@ gene-expression (microarray) datasets used in the paper:
     - SMK-CAN-187
     - Leukemia
 Each dataset is referenced from open-access repositories (GEO or UCI).
-Author: [Your Name]
+Author: Mohammad Saber Iraji
 -------------------------------------------------------
 """
 
