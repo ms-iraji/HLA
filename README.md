@@ -9,7 +9,7 @@ as described in the manuscript:
 - **ufsm.py** — Algorithm 1 (UFSM: Unsupervised Filter-based Similarity Measure)
 - **wla.py** — Algorithm 2 (Wrapper-based Learning Automata)
 - **hla.py** — Algorithm 3 (Hybrid-based Learning Automata)
-- **demo_main.ipynb** — Example notebook reproducing results using a sample dataset
+- **main.ipynb** — Example notebook reproducing results using a sample dataset
 
 ## Data
 All datasets used in the manuscript (Colon, CNS, GLI-85, SMK-CAN-187, Leukemia)
@@ -25,6 +25,6 @@ cd HLA_Code
 
 Run the notebook:
 ```python
-!jupyter nbconvert --to notebook --execute demo_main.ipynb
+!jupyter nbconvert --to notebook --execute main.ipynb
 ```
 
